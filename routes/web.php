@@ -18,7 +18,7 @@ Route::get('/', function () {
         'Go to store',
         'Go to market',
         'Go to shops kidder',
-        'news'
+        'newsgit '
     ];
 
     return view('welcome', [

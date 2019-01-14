@@ -12,7 +12,7 @@
 
     <p>
 
-        welcome to this new site, hello
+        welcome to this new site, hello, its me
     </p>
 
 
